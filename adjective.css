@@ -1,0 +1,68 @@
+body{
+    position: fixed;
+    margin: 0px;
+    background-image: url(violet.jpg);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    background-attachment: fixed;
+}
+#logoniya{
+margin-top: 20px;
+margin-left: 30px;
+}
+#one{
+    float: right;
+    color: white;
+    font-family: cinzel;
+    font-weight: bold;
+    font-size: 70px;
+    position: relative;
+    text-shadow: 2px 2px 12px black;
+    right: 900px;
+    top: 70px;
+}
+#two{
+    color: white;
+    font-size: 16px;
+    font-family: cinzel;
+    font-weight: bold;
+    position: relative;
+    left: 590px;
+    top: -125px;
+    padding: 0px;
+    margin:0px;
+}
+hr{
+    width: 20%;
+    position: relative;
+    top: -125px;
+    left: -285px;
+    padding-top: 0px;
+}
+#red{
+    margin: 160px;
+    font-family: cinzel;
+    font-size: 40px;
+    position: relative;
+    top: -120px;
+}
+#startt{
+    color: black;
+    padding: 9px 42px;
+    position:relative ;
+    left: 1510px;
+    top: -170px;
+    font-family: Libre Bakerville;
+    font-size: 28px;
+    font-weight: 700;
+    border: none;
+    border-radius: 18px;
+    background-color: #db7cdb;
+    box-shadow: 5px 5px 15px 2px black;
+    text-decoration: none;
+    transition: 0.7s;
+}
+#startt:hover{
+     background-color: rgb(212, 148, 228);
+     color: white;
+}

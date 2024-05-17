@@ -1,0 +1,174 @@
+body{
+    position: fixed;
+    margin: 0px;
+    background-image: url(violet.jpg);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    background-attachment: fixed;
+}
+#haha{
+    font-family: cinzel;
+    color: white;
+    margin: 0px;
+    font-size: 50px;
+    text-shadow: 5px 5px 20px #8f188f;
+    position: relative;
+    top: 25px;
+    left: 800px;
+}
+#question{
+    color: white;
+    font-size: 35px;
+    font-family: cinzel;
+    position: relative;
+    left: 880px;
+    top: -80px;
+    font-weight: 300;
+}
+#wan{
+    color: white;
+    position: relative;
+    left: -345px;
+    top: -17px;
+}
+#logoo{
+position: relative;
+right: -700px;
+display: flex;
+top: -55px;
+}
+hr{
+    width: 70%;
+    position: relative;
+    left: 450px;
+    top: -60px;
+}
+#score{
+    color: white;
+    position: relative;
+    left: 1740px;
+    top: 18px;
+    font-family: cinzel;
+    font-weight: 300;
+    font-size: 23px;
+    display: inline-block;
+}
+hr{
+    width: 2000px;
+    position: relative;
+    left: -90px;
+    top:-250px;
+}
+#questionDisplay{
+    height: 85px;
+    width: 85%;
+    background-color:#f7cbf7;
+    color: white;
+    font-family: cinzel;
+    font-size: 30px;
+    border: 3px solid #b329b3;
+    display: inline-block;
+    padding: 5px 10px;
+    position: relative;
+    left: 50px;
+    top: -90px;
+    border-radius: 20px;
+}
+.choiceDisplay{
+height: 60px;
+width: 80%;
+color: white;
+border: 3px solid  #b329b3;
+padding: 8px 10px;
+display: flex;
+position: relative;
+left: 90px;
+font-family: cinzel;
+font-size: 25px;
+position: relative;
+top: -100px;
+background-color:#f7cbf7 ;
+border-radius: 20px;
+}
+input{
+    position: relative;
+    top: -52px;
+    left: 30px;
+}
+p{
+    color: white;
+    font-family: cinzel;
+    font-size: 18px;
+    position: relative;
+    left: 50px;
+    top: -80px;
+}
+#submitButton{
+    font-family: cinzel;
+    font-size: 18px;
+    background-color: #f7cbf7;
+    border: 3px solid #b329b3  ;
+    border-radius: 20px;
+    padding: 5px 20px;
+    font-weight: 500;
+    position: relative;
+    left: 1700px;
+    top: -12px;
+    transition: 0.5s;
+}
+#submitButton:hover{
+   background-color: #db9edb;
+}
+#nextButton{
+    font-family: cinzel;
+    font-size: 18px;
+    background-color: #f7cbf7;
+    border: 3px solid #b329b3  ;
+    border-radius: 20px;
+    padding: 6px 28px;
+    font-weight: 500;
+    position: relative;
+    top: -157px;
+    left: 170px;
+    transition: 0.5s;
+}
+#nextButton:hover{
+    background-color: #db9edb;
+}
+#over{
+    color: white;
+    font-size: 60px;
+    position: relative;
+    left: 810px;
+}
+a{
+    color: white;
+    text-decoration: none;
+    font-size: 30px;
+    font-family: cinzel;
+    font-weight: 500;
+    position: relative;
+    left: 50px;
+    top: 100px;
+}
+a:hover{
+    text-decoration: underline;
+}
+#congrats{
+    font-size: 40px;
+    color: white;
+    position: relative;
+    top: 30px;
+}
+#final{
+    font-size: 40px;
+    color: white;
+    position: relative;
+    top: 30px;
+}
+#defi{
+    display: inline-block;
+    height: 50px;
+    width: 70%;
+    margin: 0px;
+}

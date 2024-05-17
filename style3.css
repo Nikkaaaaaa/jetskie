@@ -1,0 +1,106 @@
+body {
+    font-size: 120%;
+    background: #F8F8FF;
+    margin: 0px;
+      background-image: url(violet.jpg) ;
+      background-attachment: fixed;
+      background-repeat:  no repeat;
+      background-size: 100% 100%;
+      position: fixed;
+  }
+  .header {
+    width: 50%;
+    margin: 50px auto 0px;
+    color: white;
+    background:  #a82da8;
+    text-align: center;
+    border: 1px solid #B0C4DE;
+    border-bottom: none;
+    border-radius: 10px 10px 0px 0px;
+    padding: 20px;
+    font-family: cinzel;
+    position: relative;
+    left: 535px;
+  }
+  form, .content {
+    width: 50%;
+    margin: 0px auto;
+    padding: 20px;
+    border: 1px solid #B0C4DE;
+    background: white;
+    border-radius: 0px 0px 10px 10px;
+    position: relative;
+    left: 535px;
+  }
+  .input-group {
+    margin: 10px 0px 10px 0px;
+  }
+  .input-group label {
+    display: block;
+    text-align: left;
+    margin: 3px;
+  }
+  .input-group input {
+    height: 30px;
+    width: 93%;
+    padding: 5px 10px;
+    font-size: 16px;
+    border-radius: 5px;
+    border: 1px solid gray;
+  }
+  .btn {
+    padding: 10px 35px;
+    font-size: 15px;
+    color: white;
+    background: #a82da8;
+    border: none;
+    border-radius: 5px;
+    position: relative;
+    left: 140px;
+  }
+  .error {
+    width: 92%; 
+    margin: 0px auto; 
+    padding: 10px; 
+    border: 1px solid #a94442; 
+    color: #a94442; 
+    background: #f2dede; 
+    border-radius: 5px; 
+    text-align: left;
+  }
+  .success {
+    color: #3c763d; 
+    background: #dff0d8; 
+    border: 1px solid #a82da8;
+    margin-bottom: 20px;
+  }
+  #haha{
+    color: white;
+    font-family: cinzel;
+    font-size: 60px;
+    position: relative;
+    left: 500px;
+  }
+  hr{
+    width: 140%;
+    position: relative;
+    top: -30px;
+    left: 330px;
+  }
+  p{
+    position: relative;
+    left: 85px;
+  }
+#pro{
+  font-size: 18px;
+    color:white;
+    font-family: cinzel;
+    background-color: #b13bb1;
+    padding: 12px 25px;
+    border-radius: 10px;
+    box-shadow: 5px 10px 20px  #b13bb1;
+    position: relative;
+    top: 80px;
+    left: 160px;
+    border: 1px solid #922a92
+  }

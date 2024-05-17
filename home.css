@@ -1,0 +1,50 @@
+body{
+    margin: 0px;
+    background-image: url(violet.jpg) ;
+    background-attachment: fixed;
+    background-repeat:  no repeat;
+    background-size: 100% 100%;
+}
+.one{
+    height: 120px;
+    width: 45%;
+    background-color: rgb(143, 24, 143);
+    box-shadow: 7px 7px 20px 2px #4e0e4e; 
+    border-radius: 60px;
+    margin: 260px 15px;
+    display: flex;
+    margin-left: 570px;
+}
+#imageone{
+    margin-left: 130px;
+}
+#name{
+    margin-left: 15px;
+    font-family: cinzel;
+    color: white;
+    font-size: 30px;
+    position: relative;
+    top: 18px;
+    text-shadow: 5px 5px 15px rgb(0, 0, 0); 
+}
+#last{
+    font-family:cinzel ;
+    padding: 15px 40px;
+    margin: 20px;
+    border: 0 ;
+    font-size: 20px;
+    color: white;
+    background-color: rgb(143, 24, 143);
+    border-radius: 50px;
+    font-weight: bold;
+    position: relative;
+    right: -930px;
+    top: -220px;
+    box-shadow: 7px 7px 20px 2px #4e0e4e; 
+    text-shadow: 5px 5px 15px rgb(0, 0, 0);
+    text-decoration: none;
+    transition: 0.8s;
+}
+#last:hover{
+    color: rgb(223, 118, 250);
+}

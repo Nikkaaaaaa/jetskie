@@ -1,0 +1,131 @@
+body{
+    margin: 0px;
+    background-image: url(violet.jpg);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    background-attachment: fixed;
+}
+#logoniya{
+    margin-top: 20px;
+    margin-left: 30px;
+}
+#name{
+    float: right;
+    color: white;
+    font-family: cinzel;
+    font-weight: bold;
+    font-size: 70px;
+    position: relative;
+    text-shadow: 2px 2px 12px black;
+    right: 560px;
+    top: 75px;
+}
+#select-name{
+    color: white;
+    font-size: 25px;
+    font-family: cinzel;
+    font-weight: 400;
+    text-align: center;
+
+}
+#one{
+    color: white;
+    font-family: cinzel;
+    font-size: 27px;
+    font-weight: 600;
+    position: relative;
+    top: 110px;
+    left: 85px;
+    text-decoration: none;
+    background-color: rgb(136, 14, 126,0.3);
+    padding: 10px 20px;
+    border-radius: 10px;
+    box-shadow: 4px 4px 15px 2px #701770;
+    transition: .7s ;
+}
+#one:hover{
+    text-decoration: underline;
+    color: rgb(34, 0, 128);
+    padding: 10px 30px;
+}
+    
+#two{
+    color: white;
+    font-family: cinzel;
+    font-size: 27px;
+    font-weight: 600;
+    position: relative;
+    top: 230px;
+    left: 445px;
+    text-decoration: none;
+    background-color: rgb(136, 14, 126,0.3);
+    padding: 10px 20px;
+    border-radius: 10px;
+    box-shadow: 4px 4px 15px 2px #701770;
+    transition: .7s;
+}
+#two:hover{
+    text-decoration: underline;
+    color: rgb(34, 0, 128);
+    padding: 10px 30px;
+}
+#three{
+    color: white;
+    font-family: cinzel;
+    font-size: 27px;
+    font-weight: 600;
+    position: relative;
+    top: 35px;
+    left: 800px;
+    text-decoration: none;
+    background-color: rgb(136, 14, 126,0.3);
+    padding: 10px 20px;
+    border-radius: 10px;
+    box-shadow: 5px 5px 15px 2px #701770;
+    transition: .7s;
+}
+#three:hover{
+    text-decoration: underline;
+    color: rgb(34, 0, 128);
+    padding: 10px 30px;
+}
+#four{
+    color: white;
+    font-family: cinzel;
+    font-size: 27px;
+    font-weight: 600;
+    position: relative;
+    top: 150px;
+    left: 1220px;
+    text-decoration: none;
+    background-color: rgb(136, 14, 126,0.3);
+    padding: 10px 20px;
+    border-radius: 10px;
+    box-shadow: 5px 5px 15px 2px #701770;
+    transition: .7s;
+}
+#four:hover{
+    text-decoration: underline;
+    color: rgb(34, 0, 128);
+    padding: 10px 30px;
+}
+#five{
+    color: white;
+    font-family: cinzel;
+    font-size: 27px;
+    font-weight: 600;
+    position: relative;
+    top: -25px;
+    left: 1500px;
+    text-decoration: none;
+    background-color: rgb(136, 14, 126,0.3);
+    padding: 10px 20px;
+    border-radius: 10px;
+    box-shadow: 5px 5px 15px 2px #701770;
+    transition: .7s;
+}
+#five:hover{
+    text-decoration: underline;
+    color: rgb(34, 0, 128);
+    padding: 10px 30px;
+}
